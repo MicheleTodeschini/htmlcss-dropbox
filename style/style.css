@@ -73,7 +73,7 @@ nav {
 }
 
 .card_clm {
-    width: calc(100% / 3);
+    width: calc(100% / 3 - 1rem);
     border: 1px dashed;
 }
 
