@@ -45,6 +45,7 @@ nav {
 
 }
 
+
 .jumbotron {
   padding: 2rem 0;
   margin-bottom: 2rem;
@@ -64,3 +65,54 @@ nav {
     width: 70%;
 }
 
+.clm3 {
+    display: flex;
+    padding-top: 4rem;
+    justify-content: space-between;
+    
+}
+
+.card_clm {
+    width: calc(100% / 3);
+    border: 1px dashed;
+}
+
+.top {
+    text-align: center;
+    height: 3rem;
+   padding-top: 30px;
+   border-bottom: 1px dashed;
+
+}
+
+.center {
+    padding-left: 10px;
+}
+
+.list_unstyled {
+    list-style: none;
+    font-size: 0.8rem;
+    padding-left: 0.4rem;
+    line-height: 1.8rem;
+}
+
+.trial {
+   padding-left: 1rem;
+}
+
+.bottom {
+    padding-top: 2rem;
+    padding-left: 1rem;
+}
+
+.btn1 {
+    background-color: rgb(32, 110, 184);
+    color: white;
+    border: none;
+    height: 30px;
+    width: 170px;
+}
+
+.checkmark {
+    color: rgb(0, 128, 128);
+}
