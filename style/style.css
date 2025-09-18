@@ -139,3 +139,28 @@ nav {
     font-size: 0.9rem;
     padding-top: 2rem;
 }
+
+.walking {
+    max-width: 100%;
+    display: flex;
+    font-size: 0.9rem;
+}
+
+.partner {
+    max-width: 60%;
+    padding-right: 1rem;
+}
+
+.find {
+    background-color: white;
+    height: 2rem;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    width: calc(100% / 3 - rem);
+    padding: 10px;
+}
