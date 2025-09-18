@@ -116,3 +116,26 @@ nav {
 .checkmark {
     color: rgb(0, 128, 128);
 }
+
+.card_row {
+    width: 100%;
+    border: 1px dashed;
+    }
+
+.up {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+}
+
+.low {
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+.lowf {
+    padding-left: 10px;
+    font-size: 0.9rem;
+    padding-top: 2rem;
+}
