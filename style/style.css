@@ -169,4 +169,23 @@ nav {
     padding-top: 5rem;
     line-height: 3rem;
     max-width: 80%;
+    padding-bottom: 5rem;
+}
+
+footer {
+    background-color: black;
+    height: 300px;
+    
+}
+
+.reduced {
+      width: 90%;
+  max-width: 1176px;
+  margin: auto;
+}
+
+.end {
+    color: white;
+    padding-top: 4rem;
+    
 }
