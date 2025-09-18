@@ -164,3 +164,9 @@ nav {
     width: calc(100% / 3 - rem);
     padding: 10px;
 }
+
+.last {
+    padding-top: 5rem;
+    line-height: 3rem;
+    max-width: 80%;
+}
