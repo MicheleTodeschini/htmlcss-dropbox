@@ -30,6 +30,7 @@ nav {
         {
             text-decoration: none;
             color: black;
+            padding: 0.5rem;
         }
 }
 
@@ -69,6 +70,7 @@ nav {
     display: flex;
     padding-top: 4rem;
     justify-content: space-between;
+    
     
 }
 
@@ -144,6 +146,7 @@ nav {
     max-width: 100%;
     display: flex;
     font-size: 0.9rem;
+    
 }
 
 .partner {
@@ -163,6 +166,7 @@ nav {
 .col {
     width: calc(100% / 3 - rem);
     padding: 10px;
+    
 }
 
 .last {
